@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="/home/terdy/KuaiPan/development/05_jar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/OKHTTP"/>
+	<classpathentry kind="lib" path="/home/terdy/KuaiPan/development/05_jar/C语言算文件 CRC/libgwjcrc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
